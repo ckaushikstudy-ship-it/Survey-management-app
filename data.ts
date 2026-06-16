@@ -11,18 +11,23 @@ export type Status =
   | "rejected"
 
 export const company = {
-  name: "Meridian Land Surveyors",
-  owner: "Rajesh Verma",
-  license: "LS-2019-04472",
-  email: "office@meridiansurvey.com",
-  phone: "+91 98765 43210",
-  address: "Plot 14, Survey Lane, Civic Center, Hyderabad 500081",
-  gst: "36ABCDE1234F1Z5",
-  established: "2014",
+    name: "Bhawanpal Survey Consultant",
+      owner: "Bhawan Pal",
+        license: "LS-2019-04472",
+          email: "Bhawan75pal@gmail.com",
+            phone: "+91 93155 79809",
+              address: "830/34 Vijay Nagar, Rohtak, Haryana",
+                gst: "06ABCDE1234F1Z5",
+                  established: "2014",
+                  }
 }
-
 export const currentUser = {
-  name: "Rajesh Verma",
+    name: "Bhawan Pal",
+      role: "Owner / Principal Surveyor",
+        email: "Bhawan75pal@gmail.com",
+          initials: "BP",
+          }
+}  name: "Bhawan pal",
   role: "Owner / Principal Surveyor",
   email: "office@meridiansurvey.com",
   initials: "RV",
